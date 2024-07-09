@@ -1,0 +1,20 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Social network api with NoSQL and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellmitchell93/Social-Network-API.git"
+  },
+  "author": "Maxwell Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwellmitchell93/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/maxwellmitchell93/Social-Network-API#readme"
+}
